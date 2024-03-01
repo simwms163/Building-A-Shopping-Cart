@@ -26,5 +26,5 @@ Create a function named cartTotal that has no parameters
 
 # Leason Learned
 
-The Building Cart Project allows me to dive deeper into Javascript.
+Building the shopping cart project allows me to dive deeper into Javascript.
 
